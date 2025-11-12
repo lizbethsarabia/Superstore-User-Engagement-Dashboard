@@ -71,6 +71,6 @@ Precomputing city coordinates improves performance and avoids repeated geocoding
 
 Streamlit auto-reloads when changes are saved, making development fast and iterative.
 
-##Author 
+## Author 
 Lizbeth Sarabia
 [LinkedIn](https://www.linkedin.com/in/lizbeth-sarabia-74767b228/)
