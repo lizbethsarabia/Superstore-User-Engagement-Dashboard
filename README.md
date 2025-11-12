@@ -51,7 +51,9 @@ The **Superstore User Engagement Dashboard** is an interactive web application b
 ---
 
 ## How to Run
-[link](https://superstore-user-engagement-dashboard-edpyeopjqd9sysvpczar9x.streamlit.app/)
+![screenshot](img/superstoreIMG.img)
+
+[link to live demo!](https://superstore-user-engagement-dashboard-edpyeopjqd9sysvpczar9x.streamlit.app/)
 1. Clone this repository:
 ```bash
 git clone <repository-url>
